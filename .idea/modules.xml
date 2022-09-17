@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Hc-work.iml" filepath="$PROJECT_DIR$/.idea/Hc-work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XMUT-Java.iml" filepath="$PROJECT_DIR$/XMUT-Java.iml" />
     </modules>
   </component>
 </project>
