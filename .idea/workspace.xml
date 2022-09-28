@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62fd1c44-fb35-4c08-9e3f-1d4e1b514194" name="变更" comment="删除">
-      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
+    <list default="true" id="62fd1c44-fb35-4c08-9e3f-1d4e1b514194" name="变更" comment="新建">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pta/JavaPTA_02_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pta/JavaPTA_02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pta/JavaPTA_02_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pta/JavaPTA_02_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pta/JavaPTA_02_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zy/sy3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zy/sy3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zy/sy3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zy/sy3_3test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zy/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +51,88 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "E:/XMUT-Work/Java/XMUT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pta" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.sy3_3">
+    <configuration name="sy3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zy.sy3_1" />
+      <module name="XMUT-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sy3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zy.sy3_2" />
+      <module name="XMUT-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sy3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zy.sy3_3" />
+      <module name="XMUT-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sy3_3test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zy.sy3_3test" />
+      <module name="XMUT-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zy.test" />
+      <module name="XMUT-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="XMUT" />
       <method v="2">
@@ -60,6 +146,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.sy3_3" />
+        <item itemvalue="应用程序.sy3_3test" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.sy3_2" />
+        <item itemvalue="应用程序.sy3_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1663424850786</updated>
       <workItem from="1663424852089" duration="91000" />
-      <workItem from="1663426875460" duration="104000" />
+      <workItem from="1663426875460" duration="175000" />
+      <workItem from="1663429260783" duration="511000" />
+      <workItem from="1663587867713" duration="7008000" />
+      <workItem from="1663924792461" duration="17959000" />
+      <workItem from="1664376082036" duration="4682000" />
+      <workItem from="1664385613667" duration="2775000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1663426927981</created>
@@ -79,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663426927981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新建">
+      <created>1663427010032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663427010032</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +205,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="删除" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除" />
+    <MESSAGE value="新建" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
