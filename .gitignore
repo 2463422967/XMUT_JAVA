@@ -2,7 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
+at_alsv_pro/.idea/SearchImage.iml
+at_alsv_pro/.idea/misc.xml
+at_alsv_pro/.idea/workspace.xml
+at_alsv_pro/.idea/vcs.xml
+at_alsv_pro/.idea
 ### Eclipse ###
 .apt_generated
 .classpath
