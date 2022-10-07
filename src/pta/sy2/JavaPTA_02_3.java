@@ -1,4 +1,4 @@
-package pta;
+package pta.sy2;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -15,7 +15,7 @@ public class JavaPTA_02_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Map<String,Integer> map =new LinkedHashMap<String,Integer>();
-//        Map<String,Integer> mm = new LinkedHashMap<String,Integer>();
+
         String str = scanner.next();
         while (!str.equals("end")){
             if (!map.containsKey(str)){

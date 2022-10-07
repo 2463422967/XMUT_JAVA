@@ -1,4 +1,4 @@
-package pta;
+package pta.sy2;
 
 import java.util.Scanner;
 
